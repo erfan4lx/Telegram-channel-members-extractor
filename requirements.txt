@@ -1,0 +1,6 @@
+PyQt6
+qasync
+psutil
+aiohttp
+kurigram
+tgcrypto
