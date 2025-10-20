@@ -12,7 +12,7 @@ A free GUI tool to extract member lists from Telegram channels without any limit
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/erfan4lx)
 
 ## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-members-extractor/**](https://erfan4lx.com/product/telegram-channel-members-extractor/) 
+🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-members-extractor/**](https://erfan4lx.com/product/telegram-channel-members-extractor/) 
 
 
 ## 🚀 How to Use
